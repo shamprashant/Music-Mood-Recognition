@@ -113,8 +113,4 @@ After detection of mood, All the songs having similar mood will be added automat
 
 ## Author
 
-**[Parichay Agrawal](https://github.com/parichay28)**
-
 **[Prashant Sharma](https://github.com/shamprashant)**
-
-**[Sahil Singh](https://github.com/2697sahil)**
